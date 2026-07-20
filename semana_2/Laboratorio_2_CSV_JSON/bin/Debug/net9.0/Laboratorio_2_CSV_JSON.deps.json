@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Laboratorio_2_CSV_JSON/1.0.0": {
+        "runtime": {
+          "Laboratorio_2_CSV_JSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorio_2_CSV_JSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

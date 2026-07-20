@@ -1,0 +1,14 @@
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.exe
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.deps.json
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\refint\Laboratorio_2_CSV_JSON.dll
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Desktop\url-mia-2026\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\ref\Laboratorio_2_CSV_JSON.dll
